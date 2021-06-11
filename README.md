@@ -1,2 +1,3 @@
 # genid
-CLI tool that generated all sorts of common ID's: ObjectID, UUID,...
+
+CLI to generate common identifiers such as ObjectID and UUID.
